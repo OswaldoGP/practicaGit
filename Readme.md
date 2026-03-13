@@ -1,1 +1,1 @@
-echo "# Mi proyecto";
+echo "proyecto de practica con Github";
